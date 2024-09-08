@@ -1,0 +1,9 @@
+body {
+ /* background-color: #000000; Your desired background color */
+    margin-left: 300px;
+    /* background: linear-gradient(rgb(104, 104, 248),rgb(77, 140, 249)); */
+    margin-right: 300px;
+    background-color: white;
+    margin-top: 100px;
+    font-family: Arial, sans-serif; /* Optional: set a default font */
+  }
